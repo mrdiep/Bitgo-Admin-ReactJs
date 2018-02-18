@@ -1,0 +1,3 @@
+export const NV_SET_SELECTED_TAB = "NV_SET_SELECTED_TAB";
+export const NV_DISPLAY_MODAL = "NV_DISPLAY_MODAL";
+export const NV_HIDE_MODAL = "NV_HIDE_MODAL";

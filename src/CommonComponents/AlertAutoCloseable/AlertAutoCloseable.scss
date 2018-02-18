@@ -1,0 +1,23 @@
+﻿.alertautocloseable-component {
+  &.alert {
+    font-size: $font-size-modal-title;
+    font-weight: bolder;
+    padding: 10px 20px;
+    border-radius: 0;
+    color: $color-white;
+    margin-bottom: 0;
+
+    .btn.btn-link {
+      font-size: $font-size-modal-title;
+    }
+
+    .btn.btn-default {
+      background-color: transparent;
+      box-shadow: none;
+
+      .svg-symbol-component {
+        fill: $color-white;
+      }
+    }
+  }
+}

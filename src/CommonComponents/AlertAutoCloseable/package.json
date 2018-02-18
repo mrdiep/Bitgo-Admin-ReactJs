@@ -1,0 +1,5 @@
+{
+  "name": "AlertAutoCloseable",
+  "private": true,
+  "main": "./AlertAutoCloseable.jsx"
+}
